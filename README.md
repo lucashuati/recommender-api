@@ -1,2 +1,2 @@
 # recommender-api
-Recommender API for uses in BANG based on https://github.com/sauloantuness/bang-recommender-system
+Recommender API for uses in [BANG](maratona.decom.cefet.br) based on [Bang Recommender System Repo](https://github.com/sauloantuness/bang-recommender-system)
